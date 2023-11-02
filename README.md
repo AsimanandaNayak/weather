@@ -1,2 +1,3 @@
 # weather
-it's give the live weather details of every city 
+it's give the live weather details of every city .
+Author - Asima Nanda Nayak
